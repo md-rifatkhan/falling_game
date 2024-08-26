@@ -1,16 +1,23 @@
-# falling_game
+# Falling Object Game
 
-A 2D Falling game made with Flutter
+A simple 2D falling object game built with Flutter. The objective of the game is to catch falling objects with a player-controlled paddle. The game keeps track of the score based on the number of objects successfully caught.
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
+![Falling Object Game Demo](src/record.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Random Object Spawning:** Objects fall from random positions at the top of the screen.
+- **Player Movement:** The player can move the paddle horizontally to catch the falling objects.
+- **Scoring System:** The game tracks and displays the player's score based on the number of objects caught.
+- **Collision Detection:** Simple collision detection between the paddle and falling objects.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+To run this game on your local machine:
+
+1. **Clone the repository:**
+   
+   ```bash
+   git clone https://github.com/your-username/falling-object-game.git
