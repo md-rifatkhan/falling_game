@@ -6,8 +6,6 @@ A simple 2D falling object game built with Flutter. The objective of the game is
 
 ![Falling Object Game Demo](src/record.gif)
 
-This GIF shows the basic gameplay where objects fall from the top of the screen, and the player moves the paddle to catch them.
-
 ## Features
 
 - **Random Object Spawning:** Objects fall from random positions at the top of the screen.
@@ -20,5 +18,6 @@ This GIF shows the basic gameplay where objects fall from the top of the screen,
 To run this game on your local machine:
 
 1. **Clone the repository:**
+   
    ```bash
    git clone https://github.com/your-username/falling-object-game.git
