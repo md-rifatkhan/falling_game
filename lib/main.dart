@@ -3,6 +3,19 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
+void main() {
+  runApp(FallingGameApp());
+}
+
+class FallingGameApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: FallingGameScreen(),
+    );
+  }
+}
+
 class FallingGameScreen extends StatefulWidget {
   @override
   _FallingGameScreenState createState() => _FallingGameScreenState();
