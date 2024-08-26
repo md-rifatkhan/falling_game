@@ -20,4 +20,4 @@ To run this game on your local machine:
 1. **Clone the repository:**
    
    ```bash
-   git clone https://github.com/your-username/falling-object-game.git
+   git clone https://github.com/md-rifatkhan/falling_game.git
